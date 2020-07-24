@@ -1,1 +1,18 @@
+title: 'o1eks'
+description: "o1eks"
+baseurl: "?????"
+url: "https://litus.io"
+
+header_pages:
+  - index.md
+  - peter.md
+  - about.md
+  - contact.md
+
+style: dark
+
+footer: '<a href="https://twitter.com/o1eks">twitter</a>'
+
+# Build settings
+markdown: kramdown
 remote_theme: o1eks/jekyll-theme-console
