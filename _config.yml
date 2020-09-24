@@ -6,6 +6,7 @@ url: "https://litus.io"
 header_pages:
   - index.md
   - contact.md
+  - setup.md
 
 style: dark
 
