@@ -6,6 +6,8 @@ permalink: /setup
 
 # my mac setup
 
+### directories
+
 ### Turn Off System Integrity Protection (SIP)
 1. Restart computer.
 2. Hold down `Command-R` to reboot into Recovery Mode.
@@ -13,11 +15,11 @@ permalink: /setup
 5. Restart computer.
 6. Check that SIP was disabled: `$ csrutil status`
 
-### directories
-
-### fish
+### Homebrew
 
 ### iTerm 2 - Terminal
+
+### fish - shell
 
 ### Python
 
