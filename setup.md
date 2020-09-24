@@ -11,7 +11,8 @@ permalink: /setup
 ### Turn Off System Integrity Protection (SIP)
 1. Restart computer.
 2. Hold down `Command-R` to reboot into Recovery Mode.
-3. Run in Terminal from Utilities: 
+3. In the menu bar, choose `Utilities`, then `Terminal`
+4. Run:
 ```bash
 # If you're on macOS 10.14 and above
 # (printed warning can be safely ignored)
