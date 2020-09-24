@@ -25,7 +25,7 @@ permalink: /setup
 
 ### Pecan - Menubar
 
-### Yabai - Tiling Windows Manager
+### [Yabai](https://github.com/koekeishiya/yabai) - Tiling Windows Manager
 
 #### System Preferences
 | Category | Options |
