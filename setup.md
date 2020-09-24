@@ -12,14 +12,14 @@ permalink: /setup
 1. Restart computer.
 2. Hold down `Command-R` to reboot into Recovery Mode.
 3. Run in Terminal from Utilities: 
-```
+```bash
 # If you're on macOS 10.14 and above
 # (printed warning can be safely ignored)
-$ csrutil enable --without debug --without fs
+csrutil enable --without debug --without fs
 
 # If you're on macOS 10.13
 # (disables SIP completely)
-$ csrutil disable
+csrutil disable
 ```
 5. Restart computer.
 6. Check that SIP was disabled: `$ csrutil status`
