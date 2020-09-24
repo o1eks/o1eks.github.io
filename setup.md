@@ -23,5 +23,4 @@ permalink: /setup
 #### System Preferences
 | Category | Options |
 | -------- | ------- |
-| Mission Controll | - on: Displays have separate Spaces |
-|                  | - off: Automatically rearrange Spaces based on most recent use |
+| Mission Control  | - on: Displays have separate Spaces </br> - off: Automatically rearrange Spaces based on most recent use |
