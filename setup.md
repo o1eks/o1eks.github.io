@@ -9,11 +9,9 @@ permalink: /setup
 ### Turn Off System Integrity Protection (SIP)
 1. Restart computer.
 2. Hold down `Command-R` to reboot into Recovery Mode.
-3. Run in Terminal from Utilities:
-`$ csrutil disable`.
+3. Run in Terminal from Utilities: `$ csrutil disable`.
 5. Restart computer.
-6. Check that SIP was disabled:  
-`$ csrutil status`
+6. Check that SIP was disabled: `$ csrutil status`
 
 ### directories
 
