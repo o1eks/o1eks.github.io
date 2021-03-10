@@ -58,6 +58,11 @@ mkdir dots
 brew install pictogram
 ```
 
+### Install lunar (for external monitor)
+```
+brew install --cask lunar
+```
+
 ### Install lightweight windows manager Rectangle
 1. `brew install --cask rectangle`
 2. Go to `Preferences`
