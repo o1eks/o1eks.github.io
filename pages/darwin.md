@@ -59,3 +59,11 @@ Use pictogram to set icon from this directory. (optional)
 brew tap homebrew/cask-fonts
 brew install --cask font-fira-code-nerd-font
 ```
+
+### Setup Terminal
+```
+1. Open Preferences
+2. Choose `Profiles`
+3. Press `Change...` next to Font
+4. Choose installed nerd font, and size
+```
