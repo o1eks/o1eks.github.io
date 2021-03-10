@@ -54,3 +54,8 @@ ln -s ~/Home/dots/vscode ~/.vscode
 ```
 Use pictogram to set icon from this directory. (optional)
 
+### Install nerd font (I like Fira Code, there are more)
+```
+brew tap homebrew/cask-fonts
+brew install --cask font-fira-code-nerd-font
+```
