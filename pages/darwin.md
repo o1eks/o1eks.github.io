@@ -25,8 +25,7 @@ MacOS Big Sur 11.2.3 (20D91)
 4. Click `Get`
 
 ### Create home directory
-```ZSH
-# in Terminal.app
+```
 cd ~
 mkdir Home
 ```
