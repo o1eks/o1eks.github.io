@@ -52,14 +52,6 @@ brew install pictogram
 2. Go to `Preferences`
 3. Add 20 px gap
 
-### Install VS Code (optional)
-```
-brew install visual-studio-code
-mv ~/.vscode ~/Home/dots/vscode
-ln -s ~/Home/dots/vscode ~/.vscode
-```
-Use pictogram to set icon from this directory. (optional)
-
 ### Install nerd font (I like Fira Code, there are more)
 ```
 brew tap homebrew/cask-fonts
@@ -115,3 +107,22 @@ pyenv rehash
 ```
 brew install rust
 ```
+
+### Setup Racket
+```
+brew install racket
+```
+
+### Install VS Code (optional)
+```
+brew install visual-studio-code
+mv ~/.vscode ~/Home/dots/vscode
+ln -s ~/Home/dots/vscode ~/.vscode
+```
+Use pictogram to set icon from this directory. (optional)
+
+### Setup VS Code
+1. Open `Settings`
+2. Set `workbench.settings.editor` to json
+3. Open `Settings` again
+4. Set `telemetry.enableTelemetry` to false
