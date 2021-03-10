@@ -40,3 +40,13 @@ mkdir dots
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+### Install VS Code (optional)
+```
+brew install visual-studio-code
+```
+
+### Install ... (optional)
+```
+brew install visual-studio-code
+```
