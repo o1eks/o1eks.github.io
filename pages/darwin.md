@@ -41,6 +41,11 @@ mkdir dots
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+### Install pictogram (optional)
+```
+brew install pictogram
+```
+
 ### Install VS Code (optional)
 ```
 brew install visual-studio-code
@@ -49,7 +54,5 @@ ln -s ~/Home/dots/vscode ~/.vscode
 ```
 Use pictogram to set icon from this directory. (optional)
 
-### Install pictogram (optional)
-```
-brew install pictogram
-```
+
+
