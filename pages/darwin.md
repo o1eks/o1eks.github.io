@@ -12,6 +12,17 @@ MacOS Big Sur 11.2.3 (20D91)
 8. Check `Automatically hide and show the Dock`
 9. Uncheck `Show recent applications in Dock`
 
+### Finder Preferences
+1. Open `Preferences`
+2. Uncheck all options for desktop
+3. Set `New finder window show:` to your username
+4. Choose `Sidebar`
+5. Check home diretory
+6. Uncheck tags
+7. Uncheck hard drives
+8. Uncheck Recent
+9. 
+
 ### Create home directory
 ```
 cd ~
