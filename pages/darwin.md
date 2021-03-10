@@ -72,6 +72,12 @@ brew install --cask font-fira-code-nerd-font
 1. `touch ~/Home/dots/zshrc`
 2. `ln -s ~/Home/dots/zshrc ~/.zshrc`
 
+### Install exa (todo: change this to isntall my toolkit)
+```
+brew install exa
+# add `alias ls='exa -a --group-directories-first --git-ignore'` to ~/.zshrc
+```
+
 ### Setup Ruby
 ```
 brew install rbenv
@@ -84,4 +90,5 @@ rbenv install 3.0.0
 # `rbenv versions` to list versions
 # `rbenv global N` to set N as the primary global ruby in ~/.rbenv/version
 # `rbenv local N` to set N as the local ruby to the project in ./.ruby-version
+rbenv global 3.0.0
 ```
