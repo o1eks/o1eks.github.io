@@ -47,9 +47,9 @@ brew install pictogram
 ```
 
 ### Install lightweight windows manager Rectangle
-```
-brew install --cask rectangle
-```
+1. `brew install --cask rectangle`
+2. Go to `Preferences`
+3. Add 20 px gap
 
 ### Install VS Code (optional)
 ```
