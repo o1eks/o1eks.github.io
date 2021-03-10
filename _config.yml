@@ -4,9 +4,9 @@ baseurl: ""
 url: "https://litus.io"
 
 header_pages:
-  - index.md
-  - contact.md
-  - src/setup.md
+  - pages/index.md
+  - pages/contact.md
+  - pages/setup.md
 
 style: dark
 
