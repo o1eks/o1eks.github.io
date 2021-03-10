@@ -67,3 +67,14 @@ brew install --cask font-fira-code-nerd-font
 3. Press `Change...` next to Font
 4. Choose installed nerd font, and size
 ```
+
+### Setup Ruby
+```
+brew install rbenv
+rbenv init
+# add to ~/.zshrc using vim/nano:
+# eval "$(rbenv init -)"
+curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
+rbenv install 3.0.0
+# now you can use rbenv install N to install N version of ruby
+```
