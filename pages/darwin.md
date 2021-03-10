@@ -76,7 +76,7 @@ brew install --cask font-fira-code-nerd-font
     - `eval "$(starship init zsh)"` add to the end of `~/.zshrc`
 4. ...
 
-### Install exa (todo: change this to isntall my toolkit)
+### Install `exa` (todo: change this to isntall my toolkit)
 ```
 brew install exa
 # add `alias ls='exa -a --group-directories-first --git-ignore'` to ~/.zshrc
@@ -88,6 +88,7 @@ brew install rbenv
 rbenv init
 # add to ~/.zshrc using vim/nano:
 # eval "$(rbenv init -)"
+exec "$SHELL"
 curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
 rbenv install 3.0.0
 # now you can use `rbenv install N` to install N version of ruby
@@ -95,4 +96,12 @@ rbenv install 3.0.0
 # `rbenv global N` to set N as the primary global ruby in ~/.rbenv/version
 # `rbenv local N` to set N as the local ruby to the project in ./.ruby-version
 rbenv global 3.0.0
+```
+
+### Setup Python
+```
+brew install pyenv
+# add to ~/.zshrc using vim/nano:
+# eval "$(pyenv init -)"
+exec "$SHELL"
 ```
