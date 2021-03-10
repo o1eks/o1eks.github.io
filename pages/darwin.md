@@ -73,6 +73,7 @@ brew install --cask font-fira-code-nerd-font
 2. `ln -s ~/Home/dots/zshrc ~/.zshrc`
 3. Install Starship promt 
     - `brew install starship`
+    - `eval "$(starship init zsh)"` add to the end of `~/.zshrc`
 4. ...
 
 ### Install exa (todo: change this to isntall my toolkit)
