@@ -29,6 +29,7 @@ mkdir dots
 2. Log in with your Apple ID
 3. Search `Xcode`
 4. Click `Get`
+5. Open `Xcode` and let it install components
 
 ### Install Bear Notes (optional)
 1. Open `App Store`
