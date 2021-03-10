@@ -106,10 +106,5 @@ pyenv global 3.9.1
 
 ### Setup Rust
 ```
-brew install pyenv
-# add to ~/.zshrc using vim/nano:
-# eval "$(pyenv init -)"
-exec "$SHELL"
-pyenv install 3.9.1
-pyenv global 3.9.1
+brew install rust
 ```
