@@ -12,18 +12,6 @@ MacOS Big Sur 11.2.3 (20D91)
 8. Check `Automatically hide and show the Dock`
 9. Uncheck `Show recent applications in Dock`
 
-### Xcode (optional)
-1. Open `App Store`
-2. Log in with your Apple ID
-3. Search `Xcode`
-4. Click `Get`
-
-### Bear Notes (optional)
-1. Open `App Store`
-2. Log in with your Apple ID
-3. Search `Bear`
-4. Click `Get`
-
 ### Create home directory
 ```
 cd ~
@@ -35,6 +23,18 @@ mkdir Home
 cd ~/Home
 mkdir dots
 ```
+
+### Install Xcode (optional)
+1. Open `App Store`
+2. Log in with your Apple ID
+3. Search `Xcode`
+4. Click `Get`
+
+### Install Bear Notes (optional)
+1. Open `App Store`
+2. Log in with your Apple ID
+3. Search `Bear`
+4. Click `Get`
 
 ### Install brew
 ```
@@ -53,6 +53,4 @@ mv ~/.vscode ~/Home/dots/vscode
 ln -s ~/Home/dots/vscode ~/.vscode
 ```
 Use pictogram to set icon from this directory. (optional)
-
-
 
