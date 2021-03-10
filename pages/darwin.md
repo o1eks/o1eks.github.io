@@ -68,6 +68,10 @@ brew install --cask font-fira-code-nerd-font
 4. Choose installed nerd font, and size
 ```
 
+### Setup ZSH (I also like fish)
+1. `touch ~/Home/dots/zshrc`
+2. `ln -s ~/Home/dots/zshrc ~/.zshrc`
+
 ### Setup Ruby
 ```
 brew install rbenv
@@ -76,5 +80,8 @@ rbenv init
 # eval "$(rbenv init -)"
 curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
 rbenv install 3.0.0
-# now you can use rbenv install N to install N version of ruby
+# now you can use `rbenv install N` to install N version of ruby
+# `rbenv versions` to list versions
+# `rbenv global N` to set N as the primary global ruby in ~/.rbenv/version
+# `rbenv local N` to set N as the local ruby to the project in ./.ruby-version
 ```
