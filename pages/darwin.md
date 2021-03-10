@@ -46,6 +46,11 @@ mkdir dots
 brew install pictogram
 ```
 
+### Install lightweight windows manager Rectangle
+```
+brew install --cask rectangle
+```
+
 ### Install VS Code (optional)
 ```
 brew install visual-studio-code
