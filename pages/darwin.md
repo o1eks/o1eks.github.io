@@ -102,6 +102,7 @@ brew install pyenv
 exec "$SHELL"
 pyenv install 3.9.1
 pyenv global 3.9.1
+pyenv rehash
 ```
 
 ### Setup Rust
