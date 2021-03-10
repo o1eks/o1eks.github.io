@@ -44,9 +44,12 @@ mkdir dots
 ### Install VS Code (optional)
 ```
 brew install visual-studio-code
+mv ~/.vscode ~/Home/dots/vscode
+ln -s ~/Home/dots/vscode ~/.vscode
 ```
+Use pictogram to set icon from this directory. (optional)
 
-### Install ... (optional)
+### Install pictogram (optional)
 ```
-brew install visual-studio-code
+brew install pictogram
 ```
