@@ -91,14 +91,20 @@ rbenv init
 exec "$SHELL"
 curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
 rbenv install 3.0.0
-# now you can use `rbenv install N` to install N version of ruby
-# `rbenv versions` to list versions
-# `rbenv global N` to set N as the primary global ruby in ~/.rbenv/version
-# `rbenv local N` to set N as the local ruby to the project in ./.ruby-version
 rbenv global 3.0.0
 ```
 
 ### Setup Python
+```
+brew install pyenv
+# add to ~/.zshrc using vim/nano:
+# eval "$(pyenv init -)"
+exec "$SHELL"
+pyenv install 3.9.1
+pyenv global 3.9.1
+```
+
+### Setup Rust
 ```
 brew install pyenv
 # add to ~/.zshrc using vim/nano:
