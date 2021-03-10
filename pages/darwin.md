@@ -25,9 +25,19 @@ MacOS Big Sur 11.2.3 (20D91)
 4. Click `Get`
 
 ### Create home directory
-Open Terminal.app
 ```ZSH
 # in Terminal.app
 cd ~
 mkdir Home
+```
+
+### Create dotfiles directory
+```
+cd ~/Home
+mkdir dots
+```
+
+### Install brew
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
