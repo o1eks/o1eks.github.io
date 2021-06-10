@@ -14,3 +14,7 @@ This my space, me being Oleks. Have fun!
 (define Y (λ (b) ((λ (f) (b (λ (x) ((f f) x))))
                   (λ (f) (b (λ (x) ((f f) x)))))))
 ```
+
+### Blogs
+#### Data Structures
+- [fst](https://blog.burntsushi.net/transducers/) like trie, but better
