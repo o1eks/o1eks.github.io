@@ -13,5 +13,4 @@ style: dark
 footer: you can find me on other social by `oreksu` or `orreksu`
 
 markdown: kramdown
-# remote_theme: o1eks/jekyll-theme-console
-theme: jekyll-theme-minimal
+remote_theme: b2a3e8/jekyll-theme-console
