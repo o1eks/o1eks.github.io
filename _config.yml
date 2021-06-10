@@ -15,3 +15,5 @@ footer: 'follow me on <a href="https://twitter.com/">twitter</a>'
 # Build settings
 markdown: kramdown
 remote_theme: o1eks/jekyll-theme-console
+
+theme: jekyll-theme-minimal
