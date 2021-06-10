@@ -1,7 +1,7 @@
 title: '$o1eks@litus.io ~ $'
-description: "o1eks website"
+description: "O|eks L:tus"
 baseurl: ""
-url: "https://litus.io"
+url: https://oreksu.com
 
 header_pages:
   - pages/index.md
@@ -10,10 +10,8 @@ header_pages:
 
 style: dark
 
-footer: 'follow me on <a href="https://twitter.com/">twitter</a>'
+footer: you can find me on other social by `oreksu` or `orreksu`
 
-# Build settings
 markdown: kramdown
-remote_theme: o1eks/jekyll-theme-console
-
+# remote_theme: o1eks/jekyll-theme-console
 theme: jekyll-theme-minimal
