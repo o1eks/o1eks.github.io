@@ -1,3 +1,9 @@
+---
+title: /crypto
+layout: page
+permalink: /crypto
+---
+
 # crypto
 My links to all things crypto
 
