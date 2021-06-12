@@ -4,6 +4,7 @@ url: https://oreksu.com
 
 header_pages:
   - pages/index.md
+  - pages/research.md
   - pages/setup.md
   - pages/contact.md
 
