@@ -1,3 +1,9 @@
+---
+title: /kbr
+layout: home
+permalink: /kbr
+---
+
 # kbr
 Keaboard resourses
 
