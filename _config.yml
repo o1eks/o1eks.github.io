@@ -11,7 +11,7 @@ header_pages:
 style: dark
 listen_for_clients_preferred_style: true
 
-footer: 'you can find me on other social by `oreksu` or `orreksu`'
+footer: I am oreksu or orreksu
 
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
