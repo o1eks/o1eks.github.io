@@ -1,3 +1,9 @@
+---
+title: /darwin
+layout: page
+permalink: /darwin
+---
+
 # Darwin
 MacOS Big Sur 11.2.3 (20D91)
 
