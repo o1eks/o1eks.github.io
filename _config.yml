@@ -4,8 +4,8 @@ url: https://oreksu.com
 
 header_pages:
   - pages/index.md
-  - pages/contact.md
   - pages/setup.md
+  - pages/contact.md
 
 style: dark
 listen_for_clients_preferred_style: true
