@@ -1,7 +1,7 @@
 ---
-title: /setup
+title: /dots
 layout: page
-permalink: /setup
+permalink: /dots
 ---
 
 # my mac setup
