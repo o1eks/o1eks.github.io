@@ -2,4 +2,4 @@
 Personal Website
 
 ### Tasks
-- Add switch for light and dark mode
+- [ ] Add switch for light and dark mode
