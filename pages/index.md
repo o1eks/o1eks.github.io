@@ -7,6 +7,7 @@ permalink: /
 # Welcome
 
 This my space, me being Oleks. Have fun!
+My [GitHub](https://github.com/oreksu)
 
 ### my things
 - [sasha]() - shell
