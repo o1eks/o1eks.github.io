@@ -9,25 +9,23 @@ permalink: /
 This my space, me being Oleks. Have fun!
 My [GitHub](https://github.com/oreksu)
 
-### my things
+### my projects
 - [sasha]() - shell
 - [leximoron]() - programming languages database
+- - [oleks.studio](https://oleks.studio) - design studio
+
+### my cli apps
 - [dih](https://github.com/oreksu/dih) - do i have ...?
 - [lit](https://github.com/oreksu/lit) - lighter git
 
-### things I help with
+### i help with ...
 - [tui-rs](https://github.com/fdehau/tui-rs) - terminal user interfaces and dashboards using Rust
 
-### Blogs
-#### Data Structures
+### Reads
 - [fst](https://blog.burntsushi.net/transducers/) like trie, but better
-- [trie in eth](https://medium.com/shyft-network-media/understanding-trie-databases-in-ethereum-9f03d2c3325d)
+- [trie](https://medium.com/shyft-network-media/understanding-trie-databases-in-ethereum-9f03d2c3325d) in eth
 
-#### My things
-- [oleks.studio](https://oleks.studio)
-
-
-###### y-combinator 
+### y-combinator 
 ---
 ```racket
 (define Y (λ (b) ((λ (f) (b (λ (x) ((f f) x))))
