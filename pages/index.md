@@ -12,6 +12,8 @@ My [GitHub](https://github.com/oreksu)
 ### my things
 - [sasha]() - shell
 - [leximoron]() - programming languages database
+- [dih](https://github.com/oreksu/dih) - do i have ...?
+- [lit](https://github.com/oreksu/lit) - lighter git
 
 ### things I help with
 - [tui-rs](https://github.com/fdehau/tui-rs) - terminal user interfaces and dashboards using Rust
@@ -30,3 +32,4 @@ My [GitHub](https://github.com/oreksu)
 (define Y (λ (b) ((λ (f) (b (λ (x) ((f f) x))))
                   (λ (f) (b (λ (x) ((f f) x)))))))
 ```
+---
