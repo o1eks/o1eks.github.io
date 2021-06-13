@@ -8,6 +8,12 @@ permalink: /
 
 This my space, me being Oleks. Have fun!
 
+### my things
+- [sasha]() - shell
+
+### things I help with
+- [tui-rs](https://github.com/fdehau/tui-rs) - terminal user interfaces and dashboards using Rust
+
 ### Blogs
 #### Data Structures
 - [fst](https://blog.burntsushi.net/transducers/) like trie, but better
