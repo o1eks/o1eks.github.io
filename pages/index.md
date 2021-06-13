@@ -27,6 +27,7 @@ My [GitHub](https://github.com/oreksu)
 - [oleks.studio](https://oleks.studio)
 
 
+###### y-combinator 
 ---
 ```racket
 (define Y (λ (b) ((λ (f) (b (λ (x) ((f f) x))))
