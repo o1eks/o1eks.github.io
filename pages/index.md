@@ -11,7 +11,7 @@ My [GitHub](https://github.com/oreksu)
 
 ### my projects
 - [leximoron]() - programming languages database
-- - [oleks.studio](https://oleks.studio) - design studio
+- [oleks.studio](https://oleks.studio) - design studio
 
 ### my cli apps
 - [nush](https://github.com/oreksu/nush) - shell written in `C`
