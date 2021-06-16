@@ -10,11 +10,11 @@ This my space, me being Oleks. Have fun!
 My [GitHub](https://github.com/oreksu)
 
 ### my projects
-- [sasha]() - shell
 - [leximoron]() - programming languages database
 - - [oleks.studio](https://oleks.studio) - design studio
 
 ### my cli apps
+- [nush](https://github.com/oreksu/nush) - shell written in `C`
 - [dih](https://github.com/oreksu/dih) - do i have ...?
 - [lit](https://github.com/oreksu/lit) - lighter git
 
