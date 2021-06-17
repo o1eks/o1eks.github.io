@@ -15,6 +15,8 @@ My [GitHub](https://github.com/oreksu)
 
 ### my cli apps
 - [nush](https://github.com/oreksu/nush) - shell written in `C`
+- [xmalloc](https://github.com/oreksu/xmalloc) - super-fast thread-safe memmory allocator in `C`
+- [olfs](https://github.com/oreksu/olfs) - performent unlimited nesting file system based on [Linux FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html) in `C`
 - [dih](https://github.com/oreksu/dih) - do i have ...?
 - [lit](https://github.com/oreksu/lit) - lighter git
 
