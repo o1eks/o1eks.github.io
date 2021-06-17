@@ -9,10 +9,6 @@ permalink: /
 This my space, me being Oleks. Have fun!
 My [GitHub](https://github.com/oreksu)
 
-### my projects
-- [leximoron]() - programming languages database
-- [oleks.studio](https://oleks.studio) - design studio
-
 ### written in C
 - [nush](https://github.com/oreksu/nush) - shell with support for pipes and variables
 - [xmalloc](https://github.com/oreksu/xmalloc) - super-fast thread-safe memmory allocator
@@ -28,6 +24,10 @@ My [GitHub](https://github.com/oreksu)
 ### reads
 - [fst](https://blog.burntsushi.net/transducers/) like trie, but better
 - [trie](https://medium.com/shyft-network-media/understanding-trie-databases-in-ethereum-9f03d2c3325d) in eth
+
+### ideas
+- [leximoron]() - programming languages database
+- [oleks.studio](https://oleks.studio) - design studio
 
 ### y-combinator 
 ---
